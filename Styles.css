@@ -1,0 +1,167 @@
+body
+{
+	background-color: #22262a;
+    color: white;
+    background-size: 1500px 675px;
+	font-size: 12pt;
+	font-family: "Days One";
+
+}
+#Discord
+{
+        background-color: cornflowerblue;
+        border: none;
+        border-radius: 4px;
+        color: white;
+        display: inline-block;
+        font-weight: 300;
+        padding: 10px 12px;
+        text-decoration: none;
+        margin-top: 10px;
+        margin-left: 10px;
+        color: white;
+        text-align: center;
+        font-family: "Days One";
+        font-size: 12pt;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 200;
+        line-height: 20px;
+}
+#Instagram
+{
+    background-color: cornflowerblue;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    display: inline-block;
+    font-weight: 300;
+    padding: 10px 12px;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: white;
+    text-align: center;
+    font-family: "Days One";
+    font-size: 12pt;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 200;
+    line-height: 20px;
+}
+#Mail
+{
+    background-color: cornflowerblue;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    display: inline-block;
+    font-weight: 300;
+    padding: 10px 12px;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: white;
+    text-align: center;
+    font-family: "Days One";
+    font-size: 12pt;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 200;
+    line-height: 20px;
+}
+#Plan
+{
+    text-decoration: none;
+    color: white;
+}
+#divCord {
+    display: flex;
+    justify-content: center;
+}
+#Logo {
+    margin: 10px 5px 0 0;
+    width: auto;
+    height: 35px;
+}
+.position
+{
+    text-align: center;
+}
+footer {
+    background: #23272B;
+    position: absolute;
+    bottom: 0;
+    width: 99%;
+    padding-top: 50px;
+    height: 50px;
+    text-decoration: none;
+    color: white;
+}
+#page2 {
+    height: 45px;
+    background-color: #222324;
+    box-shadow: 0 0 5px #464444;
+    border-radius: 10px;
+    border: 1px #222324 solid;
+    color: white;
+    text-align: center;
+    font-family: "Days One";
+    font-size: 12pt;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 200;
+    line-height: 20px;
+    text-decoration: none;
+    padding-top: 25px;
+}
+#retour {
+    text-decoration: none;
+    background-color: #464444;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    display: inline-block;
+    font-weight: 300;
+    padding: 10px 12px;
+    text-decoration: none;
+    margin-top: 15px;
+    margin-left: 10px;
+    color: white;
+    text-align: center;
+    font-family: "Days One";
+    font-size: 12pt;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 200;
+    line-height: 20px;
+}
+#accueil {
+    text-decoration: none;
+    background-color: #464444;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    display: inline-block;
+    font-weight: 300;
+    padding: 10px 12px;
+    text-decoration: none;
+    margin-top: 15px;
+    margin-left: 10px;
+    color: white;
+    text-align: center;
+    font-family: "Days One";
+    font-size: 12pt;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 200;
+    line-height: 20px;
+}
+.conteneur 
+{
+    overflow:hidden;
+}
+.colp 
+{
+    width:50%; float:left; display:inline
+}
